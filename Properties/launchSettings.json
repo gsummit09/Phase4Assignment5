@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConAppAssignment": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
